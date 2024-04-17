@@ -5,7 +5,8 @@ This repository contains a gold-standard evaluation corpus for Named Entity Reco
 * LP: Forschungsstelle für Personalschriften, Marburg, Hrsg. AutoThür - Eine digitale Edition autobiographischer Texte aus Thüringer Leichenpredigten, 2013. http://www.personalschriften.de/leichenpredigten/digitale-editionen/autothuer.html.
 * BE: Prell, Martin, und Julia Schmidt-Funke, Hrsg. Digitale Edition der Briefe Erdmuthe Benignas von Reuß-Ebersdorf (1670-1732). Jena, 2017 [Work in Progress]. http://erdmuthe.thulb.uni-jena.de.
 
+- information about scope: entire corpus and parts of it (number of sentences)
 - annotated according to own annotation guidelines (link?)
-- used in Bachelor Thesis (link)
+- used in bachelor's thesis (link)
 
 The files are formated according to the specifications of the HIPE Scorer (Version 2.0) of the HIPE ('Identifying Historical People, Places and other Entities') shared tasks on NE processing on historical documents. The tool and further documentation can be found under: https://github.com/hipe-eval/HIPE-scorer   
